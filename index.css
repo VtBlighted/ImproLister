@@ -1,0 +1,9 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+div.container {
+  border-style: solid;
+  border-width: 1px;
+}
